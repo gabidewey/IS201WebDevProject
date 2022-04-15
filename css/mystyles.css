@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/
+#body .background{
+  background-image: url(images/background.jpg);
+}
+#body .ol{
+  list-style-type: lower-roman;
+  font-weight: 300;
+}
+#body .ul{
+  list-style-type: circle;
+}
+#body .img{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
